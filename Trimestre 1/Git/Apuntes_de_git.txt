@@ -21,3 +21,7 @@ git add
 para guardar los cambios
 git commit
 
+forma para subir los proyectos 
+https://www.youtube.com/watch?v=H03E8_HImAU 
+revisar Url, es super la explicación 
+
