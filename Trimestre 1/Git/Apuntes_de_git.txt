@@ -1,0 +1,23 @@
+Los primeros comandos para el estudio de esta herramienta son buenos 
+
+iniciar repositorio con 
+git init
+
+crear carpeta con 
+mkdir nombre_carpeta
+
+crear archivos por consola 
+vim nombre_archivo.formato
+
+para guardar el archivo es con el comando 
+:qw
+
+para saber como se encuentra nuestro repositorio
+git status
+
+para aderir nuevo archivo o archivo editado 
+git add
+
+para guardar los cambios
+git commit
+
