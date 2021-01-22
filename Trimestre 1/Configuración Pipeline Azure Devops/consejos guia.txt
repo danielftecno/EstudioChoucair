@@ -1,0 +1,5 @@
+Cuando ejecutes los comandos push o pull y salga un aviso como protocole http.... solo colocar el gir pull http del repocitorio a incluir lo archivos en el repositorio local 
+
+ejemplo
+
+git push https://dpuentesb@dev.azure.com/dpuentesb/Proyectounoa/_git/Proyectounoa^
